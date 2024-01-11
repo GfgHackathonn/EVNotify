@@ -37,7 +37,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
@@ -45,6 +45,9 @@ This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE
 
 ## Contact
 
-Vikesh Laharpure - [Your Email Address]
+Shivanshu Pathak -
+Vikesh Laharpure - vikeshlaharpure@gmail.com
+Yash Chaudhary
+Tanya Singh
 
 Project Link: [Link to your project repository]
